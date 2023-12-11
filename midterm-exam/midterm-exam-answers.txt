@@ -1,0 +1,64 @@
+CS 402, Fall 2023, DEN Section Midterm Exam
+===========================================
+
+        Your Name: Yuhang Xiao
+  Your USC E-mail: yxiao776@usc.edu
+    Your USC ID #: 6913860906
+             Date: 25/10/2023
+
+This is the only file you must submit.  You must NOT submit any other files.
+You must stop changing this file and make a submission when the clock hits
+X:40:00 where X:00:00 is your exam start time.  Once you have made an on-time
+submission, you can make additional submissions if you make changes.  If your
+submission timestamp in the submission ticket is at or after X:43:00, your
+submission is considered LATE.  The penalty for late submission is 5% for every
+late minute, starting at X:43:00.  By default, we will grade your last submission.
+
+If a "short-answer" type question has multiple parts (such as (a) and (b)), you
+must label which answer is for which part (for example, "(a) answer1, (b) answer2").
+
+For multiple choice questions, please ONLY enter NUMBERS (i.e., 1 through 5) and
+put them all in one line.  Please remember that each multiple choice question
+can have one or more correct answers.  Please only enter all the correct answer
+NUMBERS (separated by commas or spaces) and not enter any of the incorrect answer
+numbers.
+
+Below, please REPLACE "?" with your answers.  For non-multiple-choice type
+questions, it's fine if your answer span multiple lines.
+
+Answer(s) for Q1: (4)
+
+Answer(s) for Q2: (4)
+
+Answer(s) for Q3: (2)
+
+Answer(s) for Q4: (3)
+
+Answer(s) for Q5: (1)(2)
+
+Answer(s) for Q6: (4)
+
+Answer(s) for Q7: (2)(3)(4)
+
+Answer(s) for Q8: (3)(4)
+
+Answer(s) for Q9: (2)
+
+Answer(s) for Q10: (3)
+
+Answer(s) for Q11: (1)(4)
+
+Answer(s) for Q12: (1)(4)
+
+Answer(s) for Q13: 15
+
+Answer(s) for Q14: (3)
+
+Answer(s) for Q15: (2)(4)
+
+Answer(s) for Q16: 0260 0361
+
+Answer(s) for Q17: (3)(4)
+
+Answer(s) for Q18: (1)(5)
+
